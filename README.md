@@ -295,7 +295,6 @@ Use:
 Implement advanced control algorithms:
 
 - PID control
-- Fuzzy logic
 - Predictive maintenance
 
 ---
