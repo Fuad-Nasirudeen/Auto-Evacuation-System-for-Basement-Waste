@@ -4,7 +4,7 @@ An smart system designed to automatically evacuate wastewater from basement sept
 
 This project was developed in the **Department of Mechatronics Engineering, Bayero University Kano** as part of the prerequisite for the Bachelor of Engineering degree.
 
-![System](https://github.com/Fuad-Nasirudeen/Dano-Airlines-Customer-Satisfaction-Analysis/blob/main/Dana%20Image.jpeg)
+![Concept](https://github.com/Fuad-Nasirudeen/Auto-Evacuation-System-for-Basement-Waste/blob/main/IMG-20251016-WA0004.jpg)
 
 ---
 
